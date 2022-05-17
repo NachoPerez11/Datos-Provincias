@@ -1,7 +1,5 @@
 import json
 
-
-
 class Objectencoder:
 
     def lectura(self, archivo):
